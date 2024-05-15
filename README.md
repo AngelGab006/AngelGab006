@@ -3,14 +3,14 @@
         <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy-downsized.gif" alt="gif-code_flow" width="230px"/>
     </a> 
     <h1>Hi👋 I am Angel</h1>
-    <h5>I am a beginner front-end developer, I had been learning programing since 2019 at school and by myself education, and I have 1 year in the real business environment of programing, in my years or programming I learn about analysis and design of systems (theoretically and practically), management of database, web development and design. And since I start programing, I had make myself an enthusiastic lover of programming with the determination of learning more.</h3>
+    <h5>I am a front-end developer, I had been learning programing since 2019 at school and by myself education, and I have 1 year in the real business environment of programing, in my years or programming I learn about analysis and design of systems (theoretically and practically), management of database, web development and design. And since I start programing, I had make myself an enthusiastic lover of programming with the determination of learning more.</h3>
 </div>
 
   ### about me:
  
- - I am currently a student. 👨‍🎓
+ - I am currently a student at the ITLA. 👨‍🎓
  - I want to learn new things. 👨‍🔬
- - I am currently learning javascript, git and css. 👨‍💻
+ - I am currently learning C++ and python. 👨‍💻
  - And wherever I am; I want to participate and help. 🙋‍♂️
 
    <h3 align="left">Connect with me in:</h3>
