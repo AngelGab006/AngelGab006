@@ -10,7 +10,7 @@
  
  - I am currently a student at the ITLA. 👨‍🎓
  - I want to learn new things. 👨‍🔬
- - I am currently learning C++ and python. 👨‍💻
+ - I am currently learning Astro, C++ and Python. 👨‍💻
  - And wherever I am; I want to participate and help. 🙋‍♂️
 
    <h3 align="left">Connect with me in:</h3>
