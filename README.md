@@ -61,6 +61,6 @@
 
 ### my workflow
 
-![Snake animation](https://github.com/AngelGab006/AngelGab006/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/AngelGab006/AngelGab006/blob/output/github-contribution-grid-snake2.svg)
 
 ---
