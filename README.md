@@ -51,6 +51,18 @@
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
+    <a href="https://www.bloodshed.net/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> 
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/> 
+    </a>
+    <a href="https://astro.build/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/> 
+    </a>
+    <a href="https://es.react.dev/" target="_blank"> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+    </a>
 </div>&nbsp;
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelgab006&show_icons=true&locale=en" alt="angelgab006" />
