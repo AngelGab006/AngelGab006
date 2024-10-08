@@ -22,6 +22,12 @@
          <img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="angelbeltrea.20@gmail.com" height="30" width="40" />
    </a>
    </div>
+      <h3 align="left">My portfolio:</h3>
+   <div align="left">
+    <a href="https://angelg-portfolio.netlify.app/" target="blank">
+         <img align="center" src="https://angelg-portfolio.netlify.app/_astro/Logo.BGmJgacQ.png" alt="angel-Portfolio" height="30" width="40" />
+   </a>
+   </div>
    <h3 align="left">Languages and Tools:</h3>
     <div align="left">
     <a href="https://www.w3schools.com/css/" target="_blank"> 
