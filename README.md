@@ -9,8 +9,8 @@
   ### about me:
  
  - I am currently a student at the ITLA. 👨‍🎓
+ - I am currently studying Artificial Intelligence at ITLA. 👨‍💻
  - I want to learn new things. 👨‍🔬
- - I am currently learning Astro, C++, Java and Python. 👨‍💻
  - And wherever I am; I want to participate and help. 🙋‍♂️
 
    <h3 align="left">Connect with me in:</h3>
